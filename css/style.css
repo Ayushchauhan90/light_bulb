@@ -23,3 +23,9 @@ button.bulb-btn {
     justify-content: space-around;
     margin-top: 10px;
 }
+@media (max-width:600px){
+    .container{
+        width: 98%;
+        margin-top: 50px;
+    }
+}
